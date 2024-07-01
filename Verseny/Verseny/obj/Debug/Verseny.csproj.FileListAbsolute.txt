@@ -1,0 +1,7 @@
+C:\Users\user\source\repos\Verseny\Verseny\bin\Debug\Verseny.exe.config
+C:\Users\user\source\repos\Verseny\Verseny\bin\Debug\Verseny.exe
+C:\Users\user\source\repos\Verseny\Verseny\bin\Debug\Verseny.pdb
+C:\Users\user\source\repos\Verseny\Verseny\obj\Debug\Verseny.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\Verseny\Verseny\obj\Debug\Verseny.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Verseny\Verseny\obj\Debug\Verseny.exe
+C:\Users\user\source\repos\Verseny\Verseny\obj\Debug\Verseny.pdb

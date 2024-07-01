@@ -1,0 +1,7 @@
+C:\Users\user\source\repos\Jarmuvek\Jarmuvek\bin\Debug\Jarmuvek.exe.config
+C:\Users\user\source\repos\Jarmuvek\Jarmuvek\bin\Debug\Jarmuvek.exe
+C:\Users\user\source\repos\Jarmuvek\Jarmuvek\bin\Debug\Jarmuvek.pdb
+C:\Users\user\source\repos\Jarmuvek\Jarmuvek\obj\Debug\Jarmuvek.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\Jarmuvek\Jarmuvek\obj\Debug\Jarmuvek.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Jarmuvek\Jarmuvek\obj\Debug\Jarmuvek.exe
+C:\Users\user\source\repos\Jarmuvek\Jarmuvek\obj\Debug\Jarmuvek.pdb

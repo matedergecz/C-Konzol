@@ -1,0 +1,7 @@
+C:\Users\user\source\repos\Allat2\Allat2\bin\Debug\Allat2.exe.config
+C:\Users\user\source\repos\Allat2\Allat2\bin\Debug\Allat2.exe
+C:\Users\user\source\repos\Allat2\Allat2\bin\Debug\Allat2.pdb
+C:\Users\user\source\repos\Allat2\Allat2\obj\Debug\Allat2.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\Allat2\Allat2\obj\Debug\Allat2.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Allat2\Allat2\obj\Debug\Allat2.exe
+C:\Users\user\source\repos\Allat2\Allat2\obj\Debug\Allat2.pdb

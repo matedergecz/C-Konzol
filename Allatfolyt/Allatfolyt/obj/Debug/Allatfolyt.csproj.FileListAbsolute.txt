@@ -1,0 +1,7 @@
+C:\Users\user\source\repos\Allatfolyt\Allatfolyt\bin\Debug\Allatfolyt.exe.config
+C:\Users\user\source\repos\Allatfolyt\Allatfolyt\bin\Debug\Allatfolyt.exe
+C:\Users\user\source\repos\Allatfolyt\Allatfolyt\bin\Debug\Allatfolyt.pdb
+C:\Users\user\source\repos\Allatfolyt\Allatfolyt\obj\Debug\Allatfolyt.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\Allatfolyt\Allatfolyt\obj\Debug\Allatfolyt.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Allatfolyt\Allatfolyt\obj\Debug\Allatfolyt.exe
+C:\Users\user\source\repos\Allatfolyt\Allatfolyt\obj\Debug\Allatfolyt.pdb
